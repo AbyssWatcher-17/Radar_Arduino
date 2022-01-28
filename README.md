@@ -3,7 +3,7 @@
 <br>
 
 ## Everything That you need to make this project:<br>
-*Controller Part:<br>
+* Controller Part:<br>
 +Arduino Nano x1 <br>
 +led_RGB  x2 (Green and Red) <br>
 +Joystick x1 <br>
@@ -14,7 +14,7 @@
 +3D Printing Plastic(You may use another alternative) <br>
 +Jumper Cables(We used only Female/Female)  <br>
 
-*Radar Part: <br>
+* Radar Part: <br>
 +Arduino Uno x1 <br>
 +TCS3200 Color Sensor x1 <br>
 +HC-SR04 Ultrasonic Distance Sensor x1 <br>
