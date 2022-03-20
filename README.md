@@ -41,10 +41,10 @@
 <br>
 
 Video:<br>
--> [English](link)https://www.youtube.com/watch?v=F-aJjSXXcCI&t=2s <br>
--> [Turkish](link)https://www.youtube.com/watch?v=SShkDddO4O4 <br>
+-> [English](https://www.youtube.com/watch?v=F-aJjSXXcCI) <br>
+-> [Turkish](https://www.youtube.com/watch?v=SShkDddO4O4) <br>
 <br>
 Also You May Take a look at Report: [DOC](https://docs.google.com/document/d/1OD_WKfKfpJQMH7MQUD322oVHRmemjHqJwcbTN0f6ABo/edit) <br>
-Also You May Take a look at Arduino Project Hub: (link)https://create.arduino.cc/projecthub/bilalemregirit/radar-arduino-ce5d1f <br> 
-Also You May Take a look at 3D Printing from Google Drive: (link)https://drive.google.com/file/d/1jmpXBw56gPuhrIitwvCnn-vj3Cyd3Eyx/view?usp=sharing <br>
+Also You May Take a look at Arduino Project Hub: [Arduino Project Hub](https://create.arduino.cc/projecthub/bilalemregirit/radar-arduino-ce5d1f) <br> 
+Also You May Take a look at 3D Printing from Google Drive: [Drive](https://drive.google.com/file/d/1jmpXBw56gPuhrIitwvCnn-vj3Cyd3Eyx/view?usp=sharing) <br>
 
