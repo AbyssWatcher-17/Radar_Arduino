@@ -17,6 +17,9 @@
 +NRF24L01 Adaptor x1 <br>
 +3D Printing Plastic(You may use another alternative) <br>
 +Jumper Cables(We used only Female/Female)  <br>
+<br>
+![WhatsApp Image 2022-02-23 at 09 29 58](https://user-images.githubusercontent.com/64128266/159166486-70804587-80cd-4117-b5a2-a827b41e0a77.jpeg)
+
 ![WhatsApp Image 2022-03-15 at 22 01 11 (6)](https://user-images.githubusercontent.com/64128266/159164733-82a7a19b-a419-46cc-a405-fd945f185115.jpeg)
 ![WhatsApp Image 2022-03-15 at 22 01 11](https://user-images.githubusercontent.com/64128266/159164739-7e22bb68-0d0a-4161-aa9b-47d6cd2dfcd9.jpeg)
 ![WhatsApp Image 2022-03-15 at 22 01 11 (1)](https://user-images.githubusercontent.com/64128266/159164745-654e7fae-611f-4335-95d8-0ecd892eb6c1.jpeg)
@@ -33,6 +36,9 @@
 +NRF24L01 Adaptor x1 <br>
 +3D Printing Plastic(You may use another alternative) <br>
 +Jumper Cables <br>
+<br>
+![WhatsApp Image 2022-03-01 at 21 59 03](https://user-images.githubusercontent.com/64128266/159166487-4e560e95-8999-40a2-9af8-5211a57f1ab1.jpeg)
+
 ![WhatsApp Image 2022-03-15 at 22 01 11 (4)](https://user-images.githubusercontent.com/64128266/159164842-33aeb0e0-de61-4b45-9a86-1d0d1616789b.jpeg)
 ![WhatsApp Image 2022-03-15 at 22 01 11 (5)](https://user-images.githubusercontent.com/64128266/159164844-2e80b114-f979-4103-8582-e49f9e56126e.jpeg)
 ![WhatsApp Image 2022-03-15 at 22 01 11 (3)](https://user-images.githubusercontent.com/64128266/159164846-3d648479-0a9c-4c65-81d6-903b45992f60.jpeg)
