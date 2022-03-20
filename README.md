@@ -37,7 +37,6 @@
 +3D Printing Plastic(You may use another alternative) <br>
 +Jumper Cables <br>
 <br>
-![WhatsApp Image 2022-03-01 at 21 59 03](https://user-images.githubusercontent.com/64128266/159167573-039f037f-9eb5-4a8f-a5db-2a50d8332358.jpeg)
 
 ![WhatsApp Image 2022-03-01 at 21 59 03](https://user-images.githubusercontent.com/64128266/159166487-4e560e95-8999-40a2-9af8-5211a57f1ab1.jpeg)
 
